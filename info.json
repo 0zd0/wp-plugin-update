@@ -1,6 +1,6 @@
 {
 	"name" : "WooCommerce Tipple Gateway",
-	"slug" : "woocommerce-tipple-gateway",
+	"id" : "woocommerce-tipple-gateway",
 	"version" : "1.4.0",
-	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip"
+	"download_url" : "https://raw.githubusercontent.com/0zd0/wp-plugin-update/main/woocommerce-gateway-stripe-tipple.zip"
 }
