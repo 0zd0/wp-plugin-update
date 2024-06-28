@@ -1,6 +1,6 @@
 {
 	"name" : "WooCommerce Tipple Gateway",
 	"id" : "woocommerce-tipple-gateway",
-	"version" : "1.4.0",
+	"version" : "1.4.1",
 	"download_url" : "https://raw.githubusercontent.com/0zd0/wp-plugin-update/main/woocommerce-gateway-stripe-tipple.zip"
 }
