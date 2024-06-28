@@ -1,0 +1,15 @@
+{
+	"name" : "WooCommerce Tipple Gateway",
+	"slug" : "woocommerce-tipple-gateway",
+	"author" : "<a href='https://heytipple.com'>heytipple.com</a>",
+	"version" : "1.4.0",
+	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip",
+	"requires" : "3.0",
+	"tested" : "5.8",
+	"requires_php" : "5.3",
+	"last_updated" : "2021-01-30 02:10:00",
+	"banners" : {
+		"low" : "https://rudrastyh.com/wp-content/uploads/updater/banner-772x250.jpg",
+		"high" : "https://rudrastyh.com/wp-content/uploads/updater/banner-1544x500.jpg"
+	}
+}
